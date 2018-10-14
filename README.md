@@ -4,7 +4,7 @@ Clean data files from different topics. All the data files come from open-source
 
 * Gasoline prices and distance 052118.csv: file used for my blog post at https://dmitre88.github.io/2018/06/06/Does-competition-correlate-to-lower-gasoline-prices-and-price-dispersion.html
 * Homicides rate per municipality 2010-2017.csv: estimated from INEGI data.
-* INEGI homicides at national level 1990-2017.csv: estimated from INEGI data.
+* INEGI homicides at national level 1990-2017.csv: estimated from INEGI data. Made for my blog post at https://dmitre88.github.io/2018/08/20/Patterns-of-homicide-rates-in-Mexico.html
 * map_ENT.rds: a SpatialPolygonsDataFrame object from Mexico local states.
 * map_MUN.rds: a simplified SpatialPolygonsDataFrame object from Mexico municipalities using the R-gsimplify function from rgeos.
 * Homicides rates 2010-2017.gif: gif-file made for my blog post at https://dmitre88.github.io/2018/08/20/Patterns-of-homicide-rates-in-Mexico.html
