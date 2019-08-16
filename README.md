@@ -10,3 +10,4 @@ Clean data files from different topics. All the data files come from open-source
 * Homicides rates 2010-2017.gif: gif-file made for my blog post at https://dmitre88.github.io/2018/08/20/Patterns-of-homicide-rates-in-Mexico.html
 * Mexican states names all caps.csv: Mexican state names and codes used for merging data. Retrieved from http://www.inegi.org.mx/geo/contenidos/geoestadistica/CatalogoClaves.aspx
 * Municipal codes INEGI.csv: Mexican municipalities names and codes used for merging data. Retrieved from http://www.inegi.org.mx/geo/contenidos/geoestadistica/CatalogoClaves.aspx
+* Municipal Population Projections 2010 - 2030 (Proyecciones de Población a nivel Municipal 2010 - 2030): Mexico's municipal population projections 2010-2030. Retrieved from: www.conapo.gob.mx, but such file is no longer on the website.
